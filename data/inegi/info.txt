@@ -1,0 +1,2 @@
+1.Los dataset de Inegi de 19-22 se han descargado con fecha de corta de DIC de cada año
+2. 'dataset_inegi.csv' corresponde con el dataset de 2024 con fecha de corte de abril
